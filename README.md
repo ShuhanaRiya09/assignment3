@@ -21,10 +21,5 @@ This project automates a series of financial transactions using the Dmoney API. 
    
 3. **Build and Test:**   
   ```bash
-    gradle clean test
-
-
-   
-
-
+  gradle clean test
       
