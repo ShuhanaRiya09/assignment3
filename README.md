@@ -22,4 +22,6 @@ This project automates a series of financial transactions using the Dmoney API. 
 3. **Build and Test:**   
    ```bash
    gradle clean test
-
+4.**Generate Allure Report:**
+ ```bash
+   allure generate allure-results --clean -o allure-report
