@@ -20,5 +20,6 @@ This project automates a series of financial transactions using the Dmoney API. 
 2. **Open in IntelliJ IDEA:**
    
 3. **Build and Test:**   
-  ```bash
-  gradle clean test
+   ```bash
+   gradle clean test
+
