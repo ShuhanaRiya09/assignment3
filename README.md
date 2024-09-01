@@ -30,5 +30,15 @@ This project automates a series of financial transactions using the Dmoney API. 
 5. **View Allure Report:**
    ```bash
    allure serve allure-results
+
+## Test Scenarios:
+- Login as Admin: Authenticates as an admin and stores the token for further API requests.
+- Create Users: Creates two new customers and one agent.
+- Transfer Money: Transfers 2000 Tk from the system account to the newly created agent.
+- Deposit: Deposits 1500 Tk from the agent's account to a customer's account.
+- Withdraw: Withdraws 500 Tk from the customer back to the agent.
+- Send Money: Transfers 500 Tk from one customer to another.
+- Make Payment: Processes a payment of 100 Tk to a specified merchant.
+- Check Balance: Verifies the balance of the recipient customer after all transactions.
    
 
