@@ -41,4 +41,7 @@ This project automates a series of financial transactions using the Dmoney API. 
 - Make Payment: Processes a payment of 100 Tk to a specified merchant.
 - Check Balance: Verifies the balance of the recipient customer after all transactions.
    
+## Automation Showcasing:
+
+## Allure Report:
 
