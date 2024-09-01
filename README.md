@@ -19,13 +19,17 @@ This project automates a series of financial transactions using the Dmoney API. 
    cd dmoney-api-automation
 2. **Open in IntelliJ IDEA:**
    
-3.  **Build and Test:**
-   gradle clean test
-4. **Generate Allure Report:**
+3. **Build and Test:**   
+  ```bash
+    gradle clean test
+4.**Generate Allure Report:**
+```bash
    allure generate allure-results --clean -o allure-report
 
-5. **View Allure Report:**
+6. **View Allure Report:**
+```bash
    allure serve allure-results
+
    
 
 
